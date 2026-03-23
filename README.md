@@ -1,6 +1,6 @@
 # Circuits-and-Electronics-Mini-Projects
 
-This repository contains a collection of foundational **analog and digital electronics projects**, implemented using discrete components and basic ICs. The projects are designed to reinforce core concepts in circuit analysis, power systems, and electronic design.
+This repository contains a collection of foundational **analog and digital electronics projects**, implemented using discrete components and basic ICs, along with Proteus simulations for circuit verification and analysis. The projects are designed to reinforce core concepts in circuit analysis, power systems, and electronic design.
 
 Course: CIE 110 – Circuits and Electronics  
 Institution: Zewail City of Science and Technology  
